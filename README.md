@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Name is Kavindu Priyanath 
+My Name is Kavindu Priyanath & I am a First Year Computer Science Undergraduate at UCSC.
