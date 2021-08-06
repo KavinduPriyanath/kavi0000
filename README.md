@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Pygame project
 - 🌱 I’m currently learning many things
+- ⚡ Fun fact: I enjoy making new things
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: I enjoy making new things
+
 
 
 
