@@ -2,6 +2,8 @@
 
 My Name is Kavindu Priyanath & I am a First Year Computer Science Undergraduate at UCSC.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?
+
 <!--
 **kavi0000/kavi0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
